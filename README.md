@@ -4,7 +4,7 @@ A responsive, single-page portfolio introducing Himank Sirandhana, a Computer Sc
 
 ## Project Overview
 
-This project is a lightweight front-end portfolio built with semantic HTML and CSS. Its purpose is to give visitors and hackathon judges a quick overview of the creator and his current technical focus.
+This project is a lightweight front-end portfolio built with semantic HTML and CSS. Its purpose is to give visitors a quick overview of the creator and his current technical focus.
 
 The page is organized into these sections:
 
